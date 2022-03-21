@@ -16,7 +16,7 @@
 
 
 ## What you’ll learn
-_      Learn my 5 step process to building an Effective Dashboard and why each step is vital.
+      Learn my 5 step process to building an Effective Dashboard and why each step is vital.
       How to create a new Power BI report and import data from Excel.
       What calculated columns are and how to add them to your data model.
       What a measure is and how to add it to your data model.
@@ -29,7 +29,7 @@ _      Learn my 5 step process to building an Effective Dashboard and why each s
       Set-up a calculated column that segments work orders into days old groupings.
       Add and configure a matrix visualisation with column and row categories.
       Add a drillthrough from the home page charts and matrix to a work order details screen. View the detailed transactions that are behind the numbers.
-      How to publish your dashboard to the Power BI Service. This is the starting point to sharing your dashboard with the world._
+      How to publish your dashboard to the Power BI Service. This is the starting point to sharing your dashboard with the world.
 
 
 ## Video Documentation [click](https://youtu.be/Tr0hEa_1IJY)
