@@ -1,3 +1,5 @@
+# :large_orange_diamond: Sales Report Analysis:large_orange_diamond:
+
 ## What I learn:
 1.  Create beautiful dashboards instead tons of boring spreadsheets and slides
 2.  Make involving presentation based on interactive visual story
