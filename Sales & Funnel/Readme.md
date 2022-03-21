@@ -17,4 +17,6 @@
 ![image](https://user-images.githubusercontent.com/44643948/159285593-63cdd202-3725-4cb1-8f59-02a69bb4338f.png)
 :twisted_rightwards_arrows:
 
-## Video Documentation[Click](https://youtu.be/8kCCbeH2snw)
+
+
+## Video Documentation | [Click](https://youtu.be/8kCCbeH2snw)
