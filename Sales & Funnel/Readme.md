@@ -7,11 +7,10 @@
 
 ## Dashboard Images
 ![image](https://user-images.githubusercontent.com/44643948/159284401-b21e53f9-7fc2-49c2-a845-f4ada12ca6ec.png)
-                         
-                                                  :arrow_down:
+:arrow_down:
+                                                  
  ![image](https://user-images.githubusercontent.com/44643948/159284918-5fc6cad5-7d79-4223-a1c7-84bf198095fe.png)
- 
-                                                 :arrow_down:
+ :arrow_down:
+                                                 
 ![image](https://user-images.githubusercontent.com/44643948/159285593-63cdd202-3725-4cb1-8f59-02a69bb4338f.png)
-
-                                               :twisted_rightwards_arrows:
+:twisted_rightwards_arrows:
