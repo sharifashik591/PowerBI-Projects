@@ -3,7 +3,7 @@
 <img width="1114" height="765" alt="image" src="https://github.com/user-attachments/assets/62c23644-6d99-4c4a-a729-52f78a80ddcc" />
 
 
-**Tool Used: Power BI | Domain: Retail & Distribution | Year: 2020**
+**Tool Used: Power BI | Domain: Retail & Distribution | Year: 2017 2018 2019 2020**
 
 ---
 
